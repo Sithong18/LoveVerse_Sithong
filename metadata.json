@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LoveVerse",
+  "description": "A romantic multi-page web platform featuring love letter generation, compatibility calculation, memory timelines, and special surprise creators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
